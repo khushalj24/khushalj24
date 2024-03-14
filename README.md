@@ -19,7 +19,8 @@ I am a dedicated developer with 1 year of experience in web development. My expe
 Feel free to reach out to me via email at khushaljadhav070@gmail.com  or connect with me on LinkedIn.
 
 ## Let's Connect
-- GitHub: [github.com/khushalj24]
-- LinkedIn: [linkedin.com/in/khushal-jadhav-00335b219]
+- GitHub: github.com/laukik13 📂
+- LinkedIn: linkedin.com/in/yourprofile 🔗
+- Portfolio: yourportfolio.com 🌐
 
 Thank you for visiting my GitHub profile!
