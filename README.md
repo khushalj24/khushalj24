@@ -20,7 +20,7 @@ Feel free to reach out to me via email at khushaljadhav070@gmail.com  or connect
 
 ## Let's Connect
 - GitHub: [github.com/khushalj24](https://github.com/khushalj24) 📂
-- LinkedIn: linkedin.com/in/](https://www.linkedin.com/in/khushal-jadhav-00335b219) 🔗
+- LinkedIn: (https://www.linkedin.com/in/khushal-jadhav-00335b219) 🔗
 - Portfolio: yourportfolio.com 🌐
 
 Thank you for visiting my GitHub profile!
