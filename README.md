@@ -7,8 +7,8 @@ Welcome to my GitHub repository! I'm Khushal Jadhav, a full stack developer havi
 ## About Me
 I am a dedicated developer with 1 year of experience in web development. My expertise lies in building full-stack applications using the stack, along with proficiency in various other technologies . I am constantly learning and exploring new tools and technologies to enhance my skills and stay updated with industry trends.
 
-## Education 
-    B.E. EXTC 
+## Education
+ B.E. EXTC (Electronics & Telecommunication Engg.) 
 
 ## Skills
 - **Languages**: Java , JavaScript , SQL, HTML5, CSS3
