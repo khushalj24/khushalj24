@@ -1,53 +1,25 @@
 ### Hi there 👋
-# [Your Name]'s Portfolio
+# I am Khushal Jadhav
 
 ## Introduction
-Welcome to my GitHub repository! I'm [Your Name], a MERN (MongoDB, Express.js, React.js, Node.js) stack developer passionate about creating scalable and efficient web applications. This repository serves as a showcase of my projects, skills, and contributions to the development community.
+Welcome to my GitHub repository! I'm Khushal Jadhav, a full stack developer having a expertise in Spring Boot and Angular , passionate about creating scalable and efficient web applications. This repository serves as a showcase of my projects, skills, and contributions to the development community.
 
 ## About Me
-I am a dedicated developer with [X] years of experience in web development. My expertise lies in building full-stack applications using the MERN stack, along with proficiency in various other technologies such as [mention any other relevant technologies or frameworks]. I am constantly learning and exploring new tools and technologies to enhance my skills and stay updated with industry trends.
-
-## Projects
-Here are some of the notable projects I've worked on:
-
-1. **Project Name**: Brief description of the project.
-   - Technologies Used: MERN Stack, etc.
-   - [Link to GitHub Repository](link)
-
-   - [Link to Live Demo](link)
-
-
-2. **Project Name**: Brief description of the project.
-   - Technologies Used: MERN Stack, etc.
-   - [Link to GitHub Repository](link)
-
-   - [Link to Live Demo](link)
-
-
-[Add more projects as necessary]
+I am a dedicated developer with 1 year of experience in web development. My expertise lies in building full-stack applications using the stack, along with proficiency in various other technologies . I am constantly learning and exploring new tools and technologies to enhance my skills and stay updated with industry trends.
 
 ## Skills
-- **Languages**: JavaScript (ES6+), HTML5, CSS3
-- **Frontend**: React.js, Redux, HTML, CSS, Bootstrap, Material-UI
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, Mongoose
+- **Languages**: Java , JavaScript , SQL, HTML5, CSS3
+- **Frontend**: HTML, CSS, Bootstrap, Angular ,
+- **Backend**: Spring Boot
+- **Database**: MySQL
 - **Version Control**: Git, GitHub
-- **Tools & Others**: RESTful APIs, JSON, JWT Authentication, Axios, Postman
-
-## Contributions
-I actively contribute to open-source projects and participate in developer communities. Here are some of my notable contributions:
-
-- [Project Name](link)
-: Brief description of your contribution.
-- [Project Name](link)
-: Brief description of your contribution.
+- **Tools & Others**: RESTful APIs, JSON, JWT Authentication , Postman , Eclipse , VS Code
 
 ## Contact Me
-Feel free to reach out to me via email at your@email.com](mailto:your@email.com) or connect with me on [LinkedIn.
+Feel free to reach out to me via email at khushaljadhav070@gmail.com  or connect with me on LinkedIn.
 
 ## Let's Connect
-- GitHub: github.com/yourusername
-- LinkedIn: linkedin.com/in/yourprofile
-- Portfolio: yourportfolio.com
+- GitHub: github.com/khushalj24
+- LinkedIn: linkedin.com/in/khushal-jadhav-00335b219
 
 Thank you for visiting my GitHub profile!
