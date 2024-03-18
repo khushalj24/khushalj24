@@ -11,7 +11,7 @@ I am a dedicated developer with 1 year of experience in web development. My expe
  B.E. EXTC (Electronics & Telecommunication Engg.) 
 
 ## Skills
-- **Languages**: Java , JavaScript , SQL, HTML5, CSS3
+- **Languages**: Java , JavaScript , TypeScript, SQL, HTML5, CSS3
 - **Frontend**: HTML, CSS, Bootstrap, Angular ,
 - **Backend**: Spring Boot
 - **Database**: MySQL
